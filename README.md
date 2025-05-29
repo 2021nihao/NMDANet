@@ -1,5 +1,5 @@
 # NMDANet
-Enhancing RGB-D Mirror Segmentation With aNeighborhood-Matching and Demand-ModalAdaptive Network Using Knowledge Distillation
+Enhancing RGB-D Mirror Segmentation With a Neighborhood-Matching and Demand-Modal Adaptive Network Using Knowledge Distillation
 
 # You can access the predictions at the following link
 link: https://pan.baidu.com/s/1ior-Ieu7vUEZd8N0ccSrKA?pwd=kxxp code:kxxp 
