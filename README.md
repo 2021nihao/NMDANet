@@ -12,4 +12,5 @@ link: https://pan.baidu.com/s/1ybns9a1Dyuk88TNwvZTMxA?pwd=kivj code: kivj
 ![image](https://github.com/user-attachments/assets/97b279fb-0494-4938-a790-6575957aeda3)
 
 # Schematic diagram of distillation
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/60adc859-8587-4a2e-980e-051625baac61)
+
